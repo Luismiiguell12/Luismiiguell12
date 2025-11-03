@@ -16,8 +16,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,windows,vscode,discord)](https://skillicons.dev)
 
-![nameboytxt's Stats](https://github-readme-stats.vercel.app/api?username=nameboytxt&theme=algolia&show_icons=true&hide_border=false&count_private=false)
-![nameboytxt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameboytxt&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+![Luismiiguell12's Stats](https://github-readme-stats.vercel.app/api?username=Luismiiguell12&theme=algolia&show_icons=true&hide_border=false&count_private=false)
+![Luismiiguell12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismiiguell12&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
 
 <div>
