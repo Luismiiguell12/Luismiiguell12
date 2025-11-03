@@ -5,7 +5,7 @@
 </div>
 
 - My name is Miguel, and I'm
-- to like Girls
+- To like Girls
 - Developer beginner
 
 <div>
