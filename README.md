@@ -5,7 +5,7 @@
 </div>
 
 - My name is Miguel, and I'm
-- Learning to like linux
+- to like Girls
 - Developer beginner
 
 <div>
